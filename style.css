@@ -1,0 +1,98 @@
+header{
+    background-color: #8fec9f;
+    color: white;
+    
+}
+main{
+    background-color: white;
+}
+
+nav{
+    background-color: #83ce90;
+}
+footer{
+    background-color: #1b501e;
+    color: white;
+}
+
+#header{
+    background-color: 8fec9f;
+}
+
+#info{
+    background-color: #ff8040;
+}
+#navigation{
+    background-color: 8fec9f;
+}
+#footer{
+    background-color: #1b501e;
+    color: white;
+}
+*{
+    margin: 0;
+}
+p{
+    padding: 0 10px;
+    text-align: justify;
+}
+ul.marking{
+    list-style-image: url(./mark.png);
+}
+table{
+    margin: 30px;
+    border-top: 3px solid grey;
+    border-bottom: 3px solid grey;
+    border-collapse: collapse;
+    width: 500px;
+    table-layout: fixed;
+    
+}
+th, td{
+    border: 1px solid grey;
+    padding: 10px;
+}
+caption{
+    text-align: right;
+    font-weight: bold;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.img{
+    float: right;
+    margin-left: 20px;
+    left: 400px;
+    width: 400px;
+}
+
+.img1{
+    float: right;
+    margin-left: 20px;
+    left: 400px;
+    width: 400px;
+}
+.img2{
+    float: right;
+    margin-left: 20px;
+    left: 250px;
+    width: 250px;
+}
+.img3{
+    float: calc();
+    margin-left: 350px;
+    left: 700px;
+    width: 700px;
+}
+.img4{
+    float: calc();
+    margin-left: 350px;
+    left: 700px;
+    width: 700px;
+}
+.img5{
+    float: inline-end;
+    margin-left: 20px;
+    left: 600px;
+    width: 600px;
+}
+
